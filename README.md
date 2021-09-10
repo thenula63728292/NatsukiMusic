@@ -36,7 +36,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/NatsukiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thenula63728292/NatsukiMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 
